@@ -1,5 +1,6 @@
 # Cache and build outputs
 frontend/.next/
+backend/dist/
 backend/node_modules/
 frontend/node_modules/
 
