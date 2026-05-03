@@ -3,6 +3,6 @@ builder = "nixpacks"
 
 [deploy]
 startCommand = "npm run start"
-healthcheckPath = "/"
-healthcheckTimeout = 300
+healthcheckPath = "/login"
+healthcheckTimeout = 500
 restartPolicy = "on-failure"
