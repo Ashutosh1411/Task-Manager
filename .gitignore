@@ -1,0 +1,8 @@
+# Cache and build outputs
+frontend/.next/
+backend/node_modules/
+frontend/node_modules/
+
+# Environment variables
+.env
+node_modules
